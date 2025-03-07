@@ -1,2 +1,2 @@
 # erp_system
- i developed this simple erp system two years ago for small medical company located in khartoum , sudan
+I developed this simple ERP system tailored for a small medical company, showcasing my ability to deliver impactful solutions under tight timelines. This project, completed in just one month, was built using Python as the primary language, the QT5 framework for a user-friendly interface, and MySQL for database management. I also designed the UI using Adobe XD, ensuring an intuitive experience. While advanced encryption or security techniques were not implemented, this project highlighted my capacity to stay fully invested and motivated, proving how much I can achieve when driven by a clear goal.
